@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1385918648276 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\drawable-hdpi\ic_launcher.png
+1385918648276 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\drawable-xxhdpi\ic_launcher.png
+1385918648311 222 ad7ea4b690e311d0aa186b39951c859be1294a37 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\values\strings.xml
+1385918648318 358 4e7023247eba857b18a09f72c680169b11aff002 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\values-w820dp\dimens.xml
+1385918648217 177 01842f10f4ca89398441ec2cfb171a7ed3501594 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\values\styles.xml
+1385918648317 216 b035e705c595264d28adb3b3f1bc5a4c0c73cf76 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\values\dimens.xml
+1385918648306 332 4417cdbc5456df628934e2329a866d590f8a1e54 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\menu\sound_grid.xml
+1385918648325 304 e99c5d686e44feab2e120b8e8d3112d7022cdbab C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\layout\sound_grid_main.xml
+1385918648330 666 95ed15152d5dcd44a03810c1aad1aeb40e4b545d C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\layout\fragment_sound_grid.xml
+1385918648276 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\drawable-mdpi\ic_launcher.png
+1385918648276 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 C:\Users\Ragna\AndroidStudioProjects\MoticProject\Motic\src\main\res\drawable-xhdpi\ic_launcher.png
